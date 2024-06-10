@@ -1,0 +1,40 @@
+.box1 {
+    padding: 15px 80px ;
+    border-top: 2px solid black;
+    border-left: 2px solid black;
+    border-bottom: 2px solid black;
+    border-right: 7px solid darkorchid;
+    border-radius: 0px 50px 50px 0px ;
+    background-image: url('https://macroleg.tech/wp-content/uploads/2021/04/ak-47-ak-117.jpg');
+    background-size: cover;
+    color: white;
+}
+span{
+    color: darkorchid;
+}
+.box2{
+    padding: 15px 80px ;
+    border-top: 2px solid black;
+    border-left: 2px solid black;
+    border-bottom: 2px solid black;
+    border-right: 7px solid darkorchid;
+    border-radius: 0px 50px 50px 0px ;
+    background-image: url('https://codigoesports.com/wp-content/uploads/2021/03/DL-Q33-CoD-Mobile.jpg');
+    background-position: center;
+    background-size: cover;
+    color: white;
+    margin-top: 20px ;
+}
+.box3{
+    padding: 15px 80px ;
+    border-top: 2px solid black;
+    border-left: 2px solid black;
+    border-bottom: 2px solid black;
+    border-right: 7px solid darkorchid;
+    border-radius: 0px 50px 50px 0px ;
+    background-image: url('https://www.braintologi.com/photos/games/5dcbf3581a8bf.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    margin-top: 20px ;
+}
